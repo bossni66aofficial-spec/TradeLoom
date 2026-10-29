@@ -1,0 +1,1 @@
+export const metadata={title:'TradeLoom'}; export default function R({children}:{children:any}){return <html><body>{children}</body></html>}

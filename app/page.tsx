@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{minHeight:'100vh',padding:'80px',background:'#0A1931',color:'white',textAlign:'center'}}><h1>TradeLoom™</h1><p>Weaving Trust Into Every Build</p><p>Heaven Edition - Database Live - Scalable OS</p></main>)}
